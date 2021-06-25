@@ -1,4 +1,4 @@
-# Repo viernes ea ea ea ea ea!!!!
+# Primer repo de viernes
 Primer repo de estructura de los viernes que viene bien 
 
 
