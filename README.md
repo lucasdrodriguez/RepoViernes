@@ -1,4 +1,4 @@
-# RepoViernes by Estructura que estamos terminando el cuatri
+# Primer repo de viernes
 Primer repo de estructura de los viernes que viene bien 
 
 
