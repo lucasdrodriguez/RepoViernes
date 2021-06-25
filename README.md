@@ -1,4 +1,7 @@
-# RepoViernes
-Primer repo de estructura de los viernes 
+# RepoViernes by Estructura
+Primer repo de estructura de los viernes que viene bien 
 
-Hoy lucho esta esquivando la ayudantia... 
+
+Hoy lucho esta esquivando la ayudantia...por ahora... 
+
+
